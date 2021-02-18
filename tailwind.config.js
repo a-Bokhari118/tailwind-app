@@ -9,6 +9,9 @@ module.exports = {
         teal: colors.teal,
         orange: colors.orange,
       },
+      fontFamily: {
+        fun: ['Benne', 'sans-serif'],
+      },
     },
   },
   variants: {
